@@ -12,10 +12,6 @@ Clone do Jogo do Dinossauro do chrome, com tema do Mario.
 
 O Jogo possui "niveis" de dia, noite, caverna e castelo, junto com uma variedade de "inimigos", diferente do Dinossauro do chrome que só tem 2.
 
-## 👨‍🏫 Testando
-
-[Clique aqui para ver como ficou.](https://jncjcoder.github.io/mario-dino)
-
 ## 📝Creditos
 [Fonte: AbasCreative](https://www.fontspace.com/pixeboy-font-f43730)
 
