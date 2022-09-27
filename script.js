@@ -33,7 +33,7 @@
 
     const CLOUD_TYPES = [
         { x: 0, y: 0 },  // Day Cloud
-        { x: 55, y: 0 } // Night Cloud
+        { x: 48, y: 0 } // Night Cloud
     ];
 
     const FLOOR_TYPES = [
@@ -44,22 +44,22 @@
     ];
 
     const CHARACTER_ANIMATION = [
-        { x: 20, y: 71, width: 17, height: 31 },
-        { x: 45, y: 71, width: 17, height: 31 },
-        { x: 0,  y: 71, width: 17, height: 31 },
-        { x: 72, y: 71, width: 17, height: 31 },
-        { x: 186, y: 81, width: 16, height: 22 },
-        { x: 205, y: 71, width: 16, height: 32 }
+        { x: 16, y: 71, width: 16, height: 32 },
+        { x: 32, y: 71, width: 16, height: 32 },
+        { x: 0,  y: 71, width: 16, height: 32 },
+        { x: 48, y: 71, width: 16, height: 32 },
+        { x: 64, y: 81, width: 16, height: 22 },
+        { x: 80, y: 71, width: 16, height: 32 }
     ];
 
     const ENEMY_LIST = [
-        { x: 94, y: 86, width: 16, height: 14 },   // Bullet Bill black
-        { x: 116, y: 73, width: 16, height: 14 },  // Green Turle
-        { x: 138, y: 73, width: 16, height: 14 },  // Red Turle
-        { x: 94, y: 69, width: 16, height: 14 },   // Bullet Bill Grey
-        { x: 160, y: 73, width: 16, height: 14 },  // Cave Turtle
-        { x: 116, y: 91, width: 24 , height: 8 },  // Bowser Fire
-        { x: 146, y: 91, width: 24 , height: 8 }   // Bowser Fire Animation (Animation only)
+        { x: 96, y: 89, width: 16, height: 14 },  // Bullet Bill black
+        { x: 128, y: 89, width: 16, height: 14 },  // Green Turle
+        { x: 144, y: 89, width: 16, height: 14 },  // Red Turle
+        { x: 112, y: 89, width: 16, height: 14 },   // Bullet Bill Grey
+        { x: 160, y: 89, width: 16, height: 14 },  // Cave Turtle
+        { x: 176, y: 95, width: 24 , height: 8 },  // Bowser Fire
+        { x: 200, y: 95, width: 24 , height: 8 }   // Bowser Fire Animation (Animation only)
     ];
 
     const ENEMY_Y_LIST = [ 118, 98, 88 ];
