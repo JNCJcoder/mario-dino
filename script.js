@@ -162,9 +162,9 @@
                 character.animation = 4;
             }
         }
-        if (character.y > 135 - CHARACTER_ANIMATION[character.animation].height)
+        if (character.y > 134 - CHARACTER_ANIMATION[character.animation].height)
         {
-            character.y = 135 - CHARACTER_ANIMATION[character.animation].height;
+            character.y = 134 - CHARACTER_ANIMATION[character.animation].height;
             character.speed = 0;
             character.jumping = false;
         }
