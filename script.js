@@ -76,9 +76,9 @@
 
     const character = {
         x: 30,
-        y: 104,
-        width: 17,
-        height: 30,
+        y: 103,
+        width: 16,
+        height: 32,
         speed: 0,
         animation: 5,
         jumping: false,
