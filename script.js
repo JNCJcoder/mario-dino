@@ -87,9 +87,9 @@
 
     const floor = {
         x: 0,
-        y: SCREEN_HEIGHT - 15,
+        y: SCREEN_HEIGHT - 16,
         width: 70,
-        height: 15,
+        height: 16,
         tile: 0
     }
 
