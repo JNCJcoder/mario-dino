@@ -295,8 +295,8 @@
 		floor.width = SCREEN_WIDTH;
 
         // Character
-        character.y = 104;
-        character.height = 30;
+        character.y = 103;
+        character.height = 32;
         character.speed = 0;
         character.animation = 5;
         character.jumping = false;
