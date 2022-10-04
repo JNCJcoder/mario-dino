@@ -402,7 +402,7 @@
         context.font = '25px Pixeboy';
         context.fillStyle = '#fff';
 
-        spriteSheet = await loadSpriteSheet("assets/spriteSheet.png");
+        spriteSheet = await loadSpriteSheet("assets/SpriteSheet.png");
 
         window.onkeydown    = handleKeyDown;
         window.onkeyup      = handleKeyUp;
